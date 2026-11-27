@@ -1,21 +1,13 @@
 # Tokyo Olympics Data Analytics -- Azure Data Engineering Project
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}End-to-end batch data engineering pipeline using
-Microsoft Azure, Azure Data Factory, ADLS Gen2 and Azure Databricks
-(PySpark)`</strong>`{=html}
-```{=html}
+  <strong>End-to-end batch data engineering pipeline using Microsoft Azure, Azure Data Factory, ADLS Gen2 and Azure Databricks (PySpark)</strong>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="files/images/architecture.png" alt="Tokyo Olympics Azure Data Engineering architecture" width="100%">`{=html}
-```{=html}
+  <img src="files/images/architecture.png" alt="Tokyo Olympics Azure Data Engineering architecture" width="100%">
 </p>
-```
+
 ## 1. Project Overview
 
 This project demonstrates a cloud-based data engineering workflow using
